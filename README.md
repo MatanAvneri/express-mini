@@ -2,4 +2,5 @@
 
 `
 npm install --global gulp
+gulp
 `
